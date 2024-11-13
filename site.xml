@@ -3,16 +3,19 @@
   <url>
     <loc>https://gangnam.jianhomecare.com/index.html</loc>
     <changefreq>daily</changefreq>
+    <lastmod>2024-11-01</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://gangnam.jianhomecare.com/service.html</loc>
-    <changefreq>weekly</changefreq>
+    <changefreq>daily</changefreq>
+    <lastmod>2024-11-01</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://gangnam.jianhomecare.com/about.html</loc>
-    <changefreq>monthly</changefreq>
+    <changefreq>daily</changefreq>
+    <lastmod>2024-11-01</lastmod>
     <priority>0.7</priority>
   </url>
   
